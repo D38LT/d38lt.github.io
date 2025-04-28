@@ -1,0 +1,39 @@
+/* 기본 레이아웃 */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* 헤더 스타일 */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  header nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* 메인 콘텐츠 */
+  main {
+    padding: 2rem;
+  }
+  
+  /* 푸터 스타일 */
+  footer {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
